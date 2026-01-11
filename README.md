@@ -91,6 +91,7 @@ The analysis followed these steps:
   H₁: GDP per capita significantly moderates the relationship between freedom and happiness.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ** Key Findings**
+
 1️ Healthy Life Expectancy & Social Support
 
   Interaction term was statistically significant (p = 0.0391)
@@ -116,7 +117,6 @@ The analysis followed these steps:
   Suggests that economic stability allows freedom to translate more effectively into happiness
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ** Interpretation**
-
 The results show that happiness is not driven by isolated factors. Instead:
 
 Social support enhances the positive effects of health and freedom
